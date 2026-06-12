@@ -1,1 +1,213 @@
-# about-me
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,30:0a0a0a,65:141414,100:1a1a1a&height=260&section=header&text=NOTHING&fontSize=85&fontColor=ffffff&animation=matrix&fontAlignY=38&desc=Software%20%E2%80%A2%20GameDev%20%E2%80%A2%20Trading%20%E2%80%A2%20AI%20%E2%80%A2%20Web3&descAlignY=60&descColor=a3a3a3&descSize=18" width="100%"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=19&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=>_+Building+OpenRelay+—+OSS+Unity+Relay+Server;>_+Backend+Services+with+Rust+%26+Go;>_+High-Frequency+Trading+%26+Order+Infrastructure;>_+Web3%2C+DeFi;>_+AI+Agents+%26+Intelligent+Pipelines;>_+Real-time+Protocols+(UDP%2FTCP%2FWebSockets);>_+Telegram+Mini+Apps+%26+Bot+Ecosystems)](https://git.io/typing-svg)
+
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/nothing-udev?label=Followers&style=for-the-badge&color=1a1a1a&labelColor=000000&logo=github&logoColor=ffffff)](https://github.com/nothing-udev)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=nothing-udev&style=for-the-badge&color=1a1a1a&labelColor=000000&label=Views)](https://github.com/nothing-udev)
+&nbsp;
+[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-1a1a1a?style=for-the-badge&labelColor=000000&logo=opensourceinitiative&logoColor=ffffff)](https://github.com/nothing-udev?tab=repositories)
+
+</div>
+
+<br/>
+
+
+<div align="left">
+
+## <img src="https://api.iconify.design/lucide/user.svg?color=white" width="20"/> About Me
+
+</div>
+
+
+<div align="left">
+
+## <img src="https://api.iconify.design/lucide/chart-no-axes-column.svg?color=white" width="20"/> Activity
+
+</div>
+
+
+<div align="center">
+
+<img height="190" src="https://github-readme-streak-stats.herokuapp.com?user=nothing-udev&theme=github-dark-blue&border=30363d&background=0d1117&ring=b0b0b0&fire=b0b0b0&currStreakLabel=b0b0b0&dates=8a8a8a"/>
+
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothing-udev&layout=donut&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=b0b0b0&text_color=b0b0b0&langs_count=8"/>
+
+<img height="305" src="https://github-readme-activity-graph.vercel.app/graph?username=nothing-udev&bg_color=0d1117&color=b0b0b0&line=b0b0b0&point=b0b0b0&area=false&hide_border=true"/>
+
+</div>
+
+<div align="left">
+
+## <img src="https://api.iconify.design/lucide/blocks.svg?color=white" width="20"/> Skills
+
+</div>
+
+<table width="100%">
+<tr>
+
+<td valign="top" width="50%">
+
+<h4><img src="https://api.iconify.design/lucide/gamepad.svg?color=white" width="14"/> Game Development</h4>
+<p>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Netcode%20for%20GO-000000?style=flat-square" height="25"/>
+<img src="https://img.shields.io/badge/Photon-000000?style=flat-square" height="25"/>
+<img src="https://img.shields.io/badge/Mirror-000000?style=flat-square" height="25"/>
+<img src="https://img.shields.io/badge/OpenRelay-000000?style=flat-square" height="25"/>
+</p>
+
+<h4><img src="https://api.iconify.design/lucide/cpu.svg?color=white" width="14"/> Backend / Software</h4>
+<p>
+<img src="https://img.shields.io/badge/NestJS-000000?style=flat-square&logo=nestjs&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/.NET-000000?style=flat-square&logo=dotnet&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Axum-000000?style=flat-square" height="25"/>
+<img src="https://img.shields.io/badge/alloy.rs-000000?style=flat-square&logo=rust&logoColor=white" height="25"/>
+</p>
+
+<h4><img src="https://api.iconify.design/lucide/database.svg?color=white" width="14"/> Databases / Storage</h4>
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Prisma-000000?style=flat-square&logo=prisma&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=sqlite&logoColor=white" height="25"/>
+</p>
+
+<h4><img src="https://api.iconify.design/lucide/server.svg?color=white" width="14"/> Cloud / Infra</h4>
+<p>
+<img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Prometheus-000000?style=flat-square&logo=prometheus&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Grafana-000000?style=flat-square&logo=grafana&logoColor=white" height="25"/>
+</p>
+
+<h4><img src="https://api.iconify.design/lucide/wrench.svg?color=white" width="14"/> Tools</h4>
+<p>
+<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Jira-000000?style=flat-square&logo=jira&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Trello-000000?style=flat-square&logo=trello&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Slack-000000?style=flat-square&logo=slack&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white" height="25"/>
+</p>
+
+</td>
+
+<td valign="top" width="50%">
+
+<h4><img src="https://api.iconify.design/lucide/panel-top.svg?color=white" width="14"/> Frontend</h4>
+<p>
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css3&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/TailwindCSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/TanStack-000000?style=flat-square" height="25"/>
+<img src="https://img.shields.io/badge/Zustand-000000?style=flat-square" height="25"/>
+</p>
+
+<h4><img src="https://api.iconify.design/lucide/monitor-smartphone.svg?color=white" width="14"/> Mobile / Desktop</h4>
+<p>
+<img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/SwiftUI-000000?style=flat-square&logo=swift&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Tauri-000000?style=flat-square&logo=tauri&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Unity%20Mobile-000000?style=flat-square&logo=unity&logoColor=white" height="25"/>
+</p>
+
+<h4><img src="https://api.iconify.design/lucide/brain-cog.svg?color=white" width="14"/> AI / Blockchain</h4>
+<p>
+<img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Claude-000000?style=flat-square" height="25"/>
+<img src="https://img.shields.io/badge/Ethereum-000000?style=flat-square&logo=ethereum&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Solidity-000000?style=flat-square&logo=solidity&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Web3.js-000000?style=flat-square&logo=web3dotjs&logoColor=white" height="25"/>
+</p>
+
+<h4><img src="https://api.iconify.design/lucide/send.svg?color=white" width="14"/> Telegram</h4>
+<p>
+<img src="https://img.shields.io/badge/Bots-000000?style=flat-square&logo=telegram&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Mini%20Apps-000000?style=flat-square&logo=telegram&logoColor=white" height="25"/>
+</p>
+
+<h4><img src="https://api.iconify.design/lucide/chart-candlestick.svg?color=white" width="14"/> Crypto API</h4>
+<p>
+<img src="https://img.shields.io/badge/Binance-000000?style=flat-square&logo=binance&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Bybit-000000?style=flat-square" height="25"/>
+<img src="https://img.shields.io/badge/OKX-000000?style=flat-square" height="25"/>
+<img src="https://img.shields.io/badge/MEXC-000000?style=flat-square" height="25"/>
+<img src="https://img.shields.io/badge/BingX-000000?style=flat-square" height="25"/>
+<img src="https://img.shields.io/badge/Bitunix-000000?style=flat-square" height="25"/>
+<img src="https://img.shields.io/badge/Hyperliquid-000000?style=flat-square" height="25"/>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+
+<div align="center">
+
+<div align="left">
+
+## <img src="https://api.iconify.design/lucide/folder-open.svg?color=white" width="20"/> Open Source
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/nothing-udev/OpenRelay">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nothing-udev&repo=OpenRelay&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&description_lines_count=3"/>
+</a>
+
+</div>
+
+<div align="left">
+
+## <img src="https://api.iconify.design/lucide/layout-grid.svg?color=white" width="20"/> Contribution
+
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nimeshjh/nimeshjh/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nimeshjh/nimeshjh/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nimeshjh/nimeshjh/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
+
+<div align="center">
+
+<div align="left">
+
+## <img src="https://api.iconify.design/lucide/contact.svg?color=white" width="20"/> Let's connect
+
+</div>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+&nbsp;
+[![Twitter / X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_TWITTER)
+&nbsp;
+[![Website](https://img.shields.io/badge/Website-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:071126,100:0d1117&height=130&section=footer" width="100%"/>
+
+</div>
