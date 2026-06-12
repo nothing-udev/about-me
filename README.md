@@ -202,6 +202,9 @@ I'm a software engineer with over 10 years of experience in game development, bu
 
 </div>
 
+<br/>
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 &nbsp;
 [![Twitter / X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_TWITTER)
@@ -212,8 +215,4 @@ I'm a software engineer with over 10 years of experience in game development, bu
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
 
-<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:071126,100:0d1117&height=130&section=footer" width="100%"/>
-
-</div>
