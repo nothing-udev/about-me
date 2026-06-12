@@ -151,9 +151,9 @@ I'm a software engineer with over 10 years of experience in game development, bu
 
 <div align="center">
 
-<a href="https://github.com/nothing-udev/nothing-udev">
+<!-- <a href="https://github.com/nothing-udev/nothing-udev">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nothing-udev&repo=nothing-udev&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&description_lines_count=3"/>
-</a>
+</a> -->
 <a href="https://github.com/nothing-udev/OpenRelay">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nothing-udev&repo=OpenRelay&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&description_lines_count=3"/>
 </a>
