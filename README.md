@@ -25,6 +25,10 @@
 
 </div>
 
+I'm a software engineer with over 10 years of experience in game development, building multiplayer systems, backend services, mobile applications, and automation tools.
+
+![About Me Timeline](./assets/timeline.svg)
+
 <div align="left">
 
 ## <img src="https://api.iconify.design/lucide/blocks.svg?color=white" width="20"/> Skills
@@ -38,49 +42,49 @@
 
 <h4><img src="https://api.iconify.design/lucide/gamepad.svg?color=white" width="14"/> Game Development</h4>
 <p>
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Netcode%20for%20GO-000000?style=flat-square" height="25"/>
-<img src="https://img.shields.io/badge/Photon-000000?style=flat-square" height="25"/>
-<img src="https://img.shields.io/badge/Mirror-000000?style=flat-square" height="25"/>
-<img src="https://img.shields.io/badge/OpenRelay-000000?style=flat-square" height="25"/>
+<img src="https://img.shields.io/badge/Unity-18181B?style=flat-square&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netcode%20for%20GO-3F8F5B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Photon-3C8DB8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Mirror-6D5DB3?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenRelay-000000?style=flat-square"/>
 </p>
 
 <h4><img src="https://api.iconify.design/lucide/cpu.svg?color=white" width="14"/> Backend / Software</h4>
 <p>
-<img src="https://img.shields.io/badge/NestJS-000000?style=flat-square&logo=nestjs&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/.NET-000000?style=flat-square&logo=dotnet&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Axum-000000?style=flat-square" height="25"/>
-<img src="https://img.shields.io/badge/alloy.rs-000000?style=flat-square&logo=rust&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/NestJS-BE3458?style=flat-square&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-3E7C4A?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-B08968?style=flat-square&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-2D91B8?style=flat-square&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-5B4BB2?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-C97728?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Axum-7057C2?style=flat-square"/>
+<img src="https://img.shields.io/badge/alloy.rs-8F5A3A?style=flat-square&logo=rust&logoColor=white"/>
 </p>
 
 <h4><img src="https://api.iconify.design/lucide/database.svg?color=white" width="14"/> Databases / Storage</h4>
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Prisma-000000?style=flat-square&logo=prisma&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=sqlite&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/PostgreSQL-40648D?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4E7296?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-B4473F?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-374151?style=flat-square&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-6B7280?style=flat-square&logo=sqlite&logoColor=white"/>
 </p>
 
 <h4><img src="https://api.iconify.design/lucide/server.svg?color=white" width="14"/> Cloud / Infra</h4>
 <p>
-<img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Prometheus-000000?style=flat-square&logo=prometheus&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Grafana-000000?style=flat-square&logo=grafana&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Firebase-D4A017?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Supabase-2C9A6D?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-3C83C9?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-C86A44?style=flat-square&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-CF6A25?style=flat-square&logo=grafana&logoColor=white"/>
 </p>
 
 <h4><img src="https://api.iconify.design/lucide/wrench.svg?color=white" width="14"/> Tools</h4>
 <p>
 <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Jira-000000?style=flat-square&logo=jira&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Jira-3B82F6?style=flat-square&logo=jira&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Trello-000000?style=flat-square&logo=trello&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Slack-000000?style=flat-square&logo=slack&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Slack-6D5DB3?style=flat-square&logo=slack&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white" height="25"/>
 </p>
@@ -91,48 +95,48 @@
 
 <h4><img src="https://api.iconify.design/lucide/panel-top.svg?color=white" width="14"/> Frontend</h4>
 <p>
-<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css3&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/TailwindCSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/TanStack-000000?style=flat-square" height="25"/>
-<img src="https://img.shields.io/badge/Zustand-000000?style=flat-square" height="25"/>
+<img src="https://img.shields.io/badge/React-4B9ECF?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3B6EA8?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-C9B037?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML-C65A38?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-3F73A6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-0E7490?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/TanStack-D94B60?style=flat-square"/>
+<img src="https://img.shields.io/badge/Zustand-6B4FA3?style=flat-square"/>
 </p>
 
 <h4><img src="https://api.iconify.design/lucide/monitor-smartphone.svg?color=white" width="14"/> Mobile / Desktop</h4>
 <p>
-<img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/SwiftUI-000000?style=flat-square&logo=swift&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Tauri-000000?style=flat-square&logo=tauri&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Unity%20Mobile-000000?style=flat-square&logo=unity&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Flutter-356C99?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/SwiftUI-C96A44?style=flat-square&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tauri-D4A84C?style=flat-square&logo=tauri&logoColor=black"/>
+<img src="https://img.shields.io/badge/Unity%20Mobile-18181B?style=flat-square&logo=unity&logoColor=white"/>
 </p>
 
 <h4><img src="https://api.iconify.design/lucide/brain-cog.svg?color=white" width="14"/> AI / Blockchain</h4>
 <p>
-<img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Claude-000000?style=flat-square" height="25"/>
-<img src="https://img.shields.io/badge/Ethereum-000000?style=flat-square&logo=ethereum&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Solidity-000000?style=flat-square&logo=solidity&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Web3.js-000000?style=flat-square&logo=web3dotjs&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/OpenAI-0F766E?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-B86A50?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ethereum-4F46E5?style=flat-square&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/Solidity-4B5563?style=flat-square&logo=solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web3.js-C96A3D?style=flat-square&logo=web3dotjs&logoColor=white"/>
 </p>
 
 <h4><img src="https://api.iconify.design/lucide/send.svg?color=white" width="14"/> Telegram</h4>
 <p>
-<img src="https://img.shields.io/badge/Bots-000000?style=flat-square&logo=telegram&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Mini%20Apps-000000?style=flat-square&logo=telegram&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Bots-2F8AC4?style=flat-square&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mini%20Apps-2F8AC4?style=flat-square&logo=telegram&logoColor=white"/>
 </p>
 
 <h4><img src="https://api.iconify.design/lucide/chart-candlestick.svg?color=white" width="14"/> Crypto API</h4>
 <p>
-<img src="https://img.shields.io/badge/Binance-000000?style=flat-square&logo=binance&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Bybit-000000?style=flat-square" height="25"/>
-<img src="https://img.shields.io/badge/OKX-000000?style=flat-square" height="25"/>
-<img src="https://img.shields.io/badge/MEXC-000000?style=flat-square" height="25"/>
-<img src="https://img.shields.io/badge/BingX-000000?style=flat-square" height="25"/>
-<img src="https://img.shields.io/badge/Bitunix-000000?style=flat-square" height="25"/>
-<img src="https://img.shields.io/badge/Hyperliquid-000000?style=flat-square" height="25"/>
+<img src="https://img.shields.io/badge/Binance-D4A017?style=flat-square&logo=binance&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bybit-C9892A?style=flat-square"/>
+<img src="https://img.shields.io/badge/OKX-18181B?style=flat-square"/>
+<img src="https://img.shields.io/badge/MEXC-3B82F6?style=flat-square"/>
+<img src="https://img.shields.io/badge/BingX-3A8FD8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Bitunix-2F9D7E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hyperliquid-22A38B?style=flat-square"/>
 </p>
 
 </td>
