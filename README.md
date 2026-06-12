@@ -169,6 +169,9 @@
 
 <div align="center">
 
+<a href="https://github.com/nothing-udev/about-me">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nothing-udev&repo=about-me&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&description_lines_count=3"/>
+</a>
 <a href="https://github.com/nothing-udev/OpenRelay">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nothing-udev&repo=OpenRelay&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&description_lines_count=3"/>
 </a>
@@ -183,9 +186,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nimeshjh/nimeshjh/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nimeshjh/nimeshjh/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nimeshjh/nimeshjh/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nothing-udev/about-me/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nothing-udev/about-me/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nothing-udev/about-me/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
@@ -201,10 +204,11 @@
 &nbsp;
 [![Twitter / X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_TWITTER)
 &nbsp;
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8aTenAbEq6)
+&nbsp;
 [![Website](https://img.shields.io/badge/Website-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
-
 
 <br/>
 
