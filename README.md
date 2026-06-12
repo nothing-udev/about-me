@@ -181,7 +181,7 @@ I'm a software engineer with over 10 years of experience in game development, bu
 <br/>
 <div align="left">
 
-## <img src="https://api.iconify.design/lucide/layout-grid.svg?color=white" width="20"/> Contribution
+## <img src="https://api.iconify.design/lucide/layout-grid.svg?color=white" width="20"/> Public Contribution
 
 </div>
 
