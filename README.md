@@ -25,24 +25,6 @@
 
 </div>
 
-
-<div align="left">
-
-## <img src="https://api.iconify.design/lucide/chart-no-axes-column.svg?color=white" width="20"/> Activity
-
-</div>
-
-
-<div align="center">
-
-<img height="190" src="https://github-readme-streak-stats.herokuapp.com?user=nothing-udev&theme=github-dark-blue&border=30363d&background=0d1117&ring=b0b0b0&fire=b0b0b0&currStreakLabel=b0b0b0&dates=8a8a8a"/>
-
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothing-udev&layout=donut&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=b0b0b0&text_color=b0b0b0&langs_count=8"/>
-
-<img height="305" src="https://github-readme-activity-graph.vercel.app/graph?username=nothing-udev&bg_color=0d1117&color=b0b0b0&line=b0b0b0&point=b0b0b0&area=false&hide_border=true"/>
-
-</div>
-
 <div align="left">
 
 ## <img src="https://api.iconify.design/lucide/blocks.svg?color=white" width="20"/> Skills
@@ -175,6 +157,24 @@
 <a href="https://github.com/nothing-udev/OpenRelay">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nothing-udev&repo=OpenRelay&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&description_lines_count=3"/>
 </a>
+
+</div>
+
+
+<div align="left">
+
+## <img src="https://api.iconify.design/lucide/chart-no-axes-column.svg?color=white" width="20"/> Activity
+
+</div>
+
+
+<div align="center">
+
+<img height="190" src="https://github-readme-streak-stats.herokuapp.com?user=nothing-udev&theme=github-dark-blue&border=30363d&background=0d1117&ring=b0b0b0&fire=b0b0b0&currStreakLabel=b0b0b0&dates=8a8a8a"/>
+
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nothing-udev&layout=donut&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=b0b0b0&text_color=b0b0b0&langs_count=8"/>
+
+<img height="305" src="https://github-readme-activity-graph.vercel.app/graph?username=nothing-udev&bg_color=0d1117&color=b0b0b0&line=b0b0b0&point=b0b0b0&area=false&hide_border=true"/>
 
 </div>
 
