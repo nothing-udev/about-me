@@ -17,18 +17,13 @@
 </div>
 
 <br/>
+<br/>
 
-
-<div align="left">
-
-## <img src="https://api.iconify.design/lucide/user.svg?color=white" width="20"/> About Me
-
-</div>
+![About Me Timeline](https://github.com/nothing-udev/about-me/blob/8c5a8fc2279215e64db5a2266a60b989d0c51aa0/%20assets/timeline.svg)
 
 I'm a software engineer with over 10 years of experience in game development, building multiplayer systems, backend services, mobile applications, and automation tools.
 
-![About Me Timeline](./assets/timeline.svg)
-
+<br/>
 <div align="left">
 
 ## <img src="https://api.iconify.design/lucide/blocks.svg?color=white" width="20"/> Skills
@@ -147,6 +142,7 @@ I'm a software engineer with over 10 years of experience in game development, bu
 
 <div align="center">
 
+<br/>
 <div align="left">
 
 ## <img src="https://api.iconify.design/lucide/folder-open.svg?color=white" width="20"/> Open Source
@@ -164,7 +160,7 @@ I'm a software engineer with over 10 years of experience in game development, bu
 
 </div>
 
-
+<br/>
 <div align="left">
 
 ## <img src="https://api.iconify.design/lucide/chart-no-axes-column.svg?color=white" width="20"/> Activity
@@ -182,6 +178,7 @@ I'm a software engineer with over 10 years of experience in game development, bu
 
 </div>
 
+<br/>
 <div align="left">
 
 ## <img src="https://api.iconify.design/lucide/layout-grid.svg?color=white" width="20"/> Contribution
@@ -198,6 +195,7 @@ I'm a software engineer with over 10 years of experience in game development, bu
 
 <div align="center">
 
+<br/>
 <div align="left">
 
 ## <img src="https://api.iconify.design/lucide/contact.svg?color=white" width="20"/> Let's connect
